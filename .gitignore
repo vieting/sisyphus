@@ -5,3 +5,4 @@ docs/_build
 example/output
 example/work
 *.swo
+*.history*
